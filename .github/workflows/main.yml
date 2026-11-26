@@ -1,0 +1,11 @@
+name: ujef
+
+on:
+  push:
+    branches: [main]
+jobs:
+  demo: 
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Greetings
+        run: echo"hell i am Ujef and these workflow"

@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Greetings
-        run: echo"hell i am Ujef and these workflow"
+        run: echo "hell i am Ujef and these workflow"
